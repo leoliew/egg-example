@@ -7,7 +7,8 @@
     "egg": "^2.2.1",
     "egg-mongoose": "^3.1.1",
     "egg-rbac": "^0.4.0",
-    "egg-scripts": "^2.5.0"
+    "egg-scripts": "^2.5.0",
+    "rbac": "^5.0.3"
   },
   "devDependencies": {
     "autod": "^3.0.1",
